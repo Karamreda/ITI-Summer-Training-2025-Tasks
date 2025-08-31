@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Advanced Console Calculator\bin\Debug\net8.0\Advanced Console Calculator.exe
+C:\Users\m.g\Desktop\Advanced Console Calculator\bin\Debug\net8.0\Advanced Console Calculator.deps.json
+C:\Users\m.g\Desktop\Advanced Console Calculator\bin\Debug\net8.0\Advanced Console Calculator.runtimeconfig.json
+C:\Users\m.g\Desktop\Advanced Console Calculator\bin\Debug\net8.0\Advanced Console Calculator.dll
+C:\Users\m.g\Desktop\Advanced Console Calculator\bin\Debug\net8.0\Advanced Console Calculator.pdb
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.dll
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\refint\Advanced Console Calculator.dll
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.pdb
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\Advanced Console Calculator.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Advanced Console Calculator\obj\Debug\net8.0\ref\Advanced Console Calculator.dll
