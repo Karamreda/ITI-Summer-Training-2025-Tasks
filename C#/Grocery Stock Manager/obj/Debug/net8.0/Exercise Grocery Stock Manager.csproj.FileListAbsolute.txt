@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\bin\Debug\net8.0\Exercise Grocery Stock Manager.exe
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\bin\Debug\net8.0\Exercise Grocery Stock Manager.deps.json
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\bin\Debug\net8.0\Exercise Grocery Stock Manager.runtimeconfig.json
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\bin\Debug\net8.0\Exercise Grocery Stock Manager.dll
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\bin\Debug\net8.0\Exercise Grocery Stock Manager.pdb
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.dll
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\refint\Exercise Grocery Stock Manager.dll
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.pdb
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\Exercise Grocery Stock Manager.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Exercise Grocery Stock Manager\obj\Debug\net8.0\ref\Exercise Grocery Stock Manager.dll
