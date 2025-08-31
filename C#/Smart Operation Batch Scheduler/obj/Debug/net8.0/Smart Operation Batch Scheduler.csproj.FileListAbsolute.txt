@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\bin\Debug\net8.0\Smart Operation Batch Scheduler.exe
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\bin\Debug\net8.0\Smart Operation Batch Scheduler.deps.json
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\bin\Debug\net8.0\Smart Operation Batch Scheduler.runtimeconfig.json
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\bin\Debug\net8.0\Smart Operation Batch Scheduler.dll
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\bin\Debug\net8.0\Smart Operation Batch Scheduler.pdb
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.dll
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\refint\Smart Operation Batch Scheduler.dll
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.pdb
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\Smart Operation Batch Scheduler.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Smart Operation Batch Scheduler\obj\Debug\net8.0\ref\Smart Operation Batch Scheduler.dll
