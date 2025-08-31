@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Simple ATM Simulator\bin\Debug\net8.0\Simple ATM Simulator.exe
+C:\Users\m.g\Desktop\Simple ATM Simulator\bin\Debug\net8.0\Simple ATM Simulator.deps.json
+C:\Users\m.g\Desktop\Simple ATM Simulator\bin\Debug\net8.0\Simple ATM Simulator.runtimeconfig.json
+C:\Users\m.g\Desktop\Simple ATM Simulator\bin\Debug\net8.0\Simple ATM Simulator.dll
+C:\Users\m.g\Desktop\Simple ATM Simulator\bin\Debug\net8.0\Simple ATM Simulator.pdb
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.dll
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\refint\Simple ATM Simulator.dll
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.pdb
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\Simple ATM Simulator.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Simple ATM Simulator\obj\Debug\net8.0\ref\Simple ATM Simulator.dll
