@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.exe
+C:\Users\m.g\Desktop\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.deps.json
+C:\Users\m.g\Desktop\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.runtimeconfig.json
+C:\Users\m.g\Desktop\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\m.g\Desktop\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\refint\Shape Area Calculator.dll
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Shape Area Calculator\obj\Debug\net8.0\ref\Shape Area Calculator.dll
